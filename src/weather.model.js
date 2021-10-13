@@ -1,6 +1,6 @@
 
 
-
+// We could use graphql instead
 const getWeather = function (basic, info) {
 //    The current temperature as  `current_temp`.
 //    - The city as  `city_name`.
